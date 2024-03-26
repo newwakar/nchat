@@ -4,8 +4,7 @@
   "description": "",
   "main": "server.js",
   "scripts": {
-    "server": "nodemon backend/server.js",
-    "build": "webpack"
+    "server": "nodemon backend/server.js"
   },
   "type": "module",
   "keywords": [],
